@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itzmhit
+- 👋 Hi, I’m @itz_mhit
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Python Automation and Web Development
 - 💞️ I’m looking to collaborate on Java Team Task Kind OFF things
